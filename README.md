@@ -16,4 +16,4 @@ For prediction, Logistic Regression model is used. Based on the dataset collecte
 
 4. Run cells top to bottom.  
 
-5. For all dependencies and libraries used, please go through the `/requirements.txt` file.
+5. For all dependencies and libraries used, please go through the `requirements.txt` file.
