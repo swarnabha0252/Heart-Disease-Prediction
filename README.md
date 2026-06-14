@@ -7,8 +7,7 @@ For prediction, Logistic Regression model is used. Based on the dataset collecte
 
 ## How to Run
 
-1. Clone this repo:
-   git clone [your-repo-url]
+1. Clone this repo.
 
 2. Open `/notebooks/logistic_regression_model.ipynb` in Jupyter, Colab, or VS Code.
 
